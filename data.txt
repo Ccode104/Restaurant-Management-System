@@ -1,0 +1,145 @@
+Restaurantc 
+28 
+ShankarNagar
+5 9 
+5 
+Gulabjamun
+50 5 
+15 2 
+Dosa
+25 1 
+20 2 
+Uttappam
+60 2 
+10 1 
+Rice
+100 5 
+30 5 
+Paneer 
+75 1 
+40 2 
+2 Kofta
+250 2 
+30 3 
+PaneerButterMasala 
+350 1 
+20 1 
+Rabdi
+450 2 
+30 3
+Restaurantc
+27 
+ShankarNagar
+5 9 
+5 
+Gulabjamun
+50 5 
+15 2 
+Dosa
+25 1 
+20 2 
+Uttappam
+60 2 
+10 1 
+Rice
+100 5 
+30 5 
+Paneer 
+75 1 
+40 2 
+2 Kofta
+250 2 
+30 3 
+PaneerButterMasala 
+350 1 
+20 1 
+Rabdi
+450 2 
+30 3
+Restaurantc 
+26 
+ShankarNagar
+5 9 
+5 
+Gulabjamun
+50 5 
+15 2 
+Dosa
+25 1 
+20 2 
+Uttappam
+60 2 
+10 1 
+Rice
+100 5 
+30 5 
+Paneer 
+75 1 
+40 2 
+2 Kofta
+250 2 
+30 3 
+PaneerButterMasala 
+350 1 
+20 1 
+Rabdi
+450 2 
+30 3
+Restauranta 
+25 
+ShankarNagar
+5 9 
+5 
+Gulabjamun
+50 5 
+15 2 
+Dosaa
+25 1 
+20 2 
+Uttappam
+60 2 
+10 1 
+Rice
+100 5 
+30 5 
+Paneer 
+75 1 
+40 2 
+2 Kofta
+250 2 
+30 3 
+PaneerButterMasala 
+350 1 
+20 1 
+Rabdi
+450 2 
+30 3
+Restaurantb 
+24 
+ShankarNagar
+5 9 
+5 
+Gulabjamun
+50 5 
+15 2 
+Dosar
+25 1 
+20 2 
+Uttappam
+60 2 
+10 1 
+Rice
+100 5 
+30 5 
+Paneer 
+75 1 
+40 2 
+2 Kofta
+250 2 
+30 3 
+PaneerButterMasala 
+350 1 
+20 1 
+Rabdi
+450 2 
+30 3
