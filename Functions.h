@@ -1,6 +1,7 @@
 
 void merge_res(int l,int m,int r) 
 { 
+/*Sorts the Restaurant*/
     int i,j,k; 
     int n1=m-l+1; 
     int n2=r-m; 
